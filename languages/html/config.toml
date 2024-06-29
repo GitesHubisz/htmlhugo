@@ -1,4 +1,4 @@
-name = "HTMLhugo"
+name = "htmlhugo"
 grammar = "htmlhugo"
 path_suffixes = ["html", "htm", "shtml"]
 block_comment = ["<!-- ", " -->"]
