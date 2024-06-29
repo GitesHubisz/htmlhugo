@@ -7,4 +7,4 @@ authors = ["ChatGPT, but asked by GitesHubisz <https://github.com/GitesHubisz>"]
 
 [grammars.htmlhugo]
 repository = "https://github.com/GitesHubisz/tree-sitter-html"
-commit = "bbd67499f9103d6430c4e574ee8279e2da9008f1"
+commit = "34d6fb321e7b5081cedd4c68449ba84a02f49e9d"
