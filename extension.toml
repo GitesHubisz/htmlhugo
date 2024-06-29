@@ -3,7 +3,7 @@ name = "HTML_Plus_Hugo"
 description = "hugo support"
 version = "0.0.1"
 schema_version = 1
-authors = ["Anon <idk>"]
+authors = ["ChatGPT, but asked by GitesHubisz <https://github.com/GitesHubisz>"]
 
 [grammars.html]
 repository = "https://github.com/GitesHubisz/tree-sitter-html"
