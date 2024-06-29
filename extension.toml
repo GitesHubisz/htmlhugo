@@ -1,0 +1,18 @@
+id = "htmlhugo"
+name = "HTML_Plus_Hugo"
+description = "hugo support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Anon <idk>"]
+
+[grammars.html]
+repository = "https://github.com/GitesHubisz/tree-sitter-html"
+commit = "5374017a27a453dce5b485c4306132a95fc6d465"
+
+[language_servers.vscode-html-language-server]
+name = "vscode-html-language-server"
+language = "HTML"
+
+[language_servers.vscode-html-language-server.language_ids]
+"HTML" = "html"
+"CSS" = "css"
