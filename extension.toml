@@ -8,11 +8,3 @@ authors = ["ChatGPT, but asked by GitesHubisz <https://github.com/GitesHubisz>"]
 [grammars.html]
 repository = "https://github.com/GitesHubisz/tree-sitter-html"
 commit = "6426190bb285939d667a20347d08406cd58b3f96"
-
-[language_servers.vscode-html-language-server]
-name = "vscode-html-language-server"
-language = "HTML"
-
-[language_servers.vscode-html-language-server.language_ids]
-"HTML" = "html"
-"CSS" = "css"
