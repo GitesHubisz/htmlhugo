@@ -4,6 +4,7 @@
 (attribute_name) @property
 (attribute_value) @string
 (comment) @comment
+((double_brace_expression) @punctuation.bracket)
 
 "=" @operator
 
@@ -13,6 +14,4 @@
   "<!"
   "</"
   "/>"
-  "{{"
-  "}}"
 ] @punctuation.bracket
