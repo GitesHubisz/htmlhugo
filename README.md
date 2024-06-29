@@ -8,4 +8,4 @@ It created so that zed recognizes double braces (that is, those characters {{}} 
 
 ## Loicens
 
-idk, but not CoC friendly.
+idk, maybe Apache one.
