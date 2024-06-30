@@ -6,5 +6,5 @@ schema_version = 1
 authors = ["ChatGPT, but asked by GitesHubisz <https://github.com/GitesHubisz>"]
 
 [grammars.htmlhugo]
-repository = "https://github.com/GitesHubisz/tree-sitter-html"
-commit = "34d6fb321e7b5081cedd4c68449ba84a02f49e9d"
+repository = "https://github.com/GitesHubisz/tree-sitter-htmlhugo"
+commit = "49ef93cf9a3c1b0636ecc93aa22dd0982213b694"
