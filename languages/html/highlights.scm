@@ -16,3 +16,9 @@
   "{{"
   "}}"
 ] @punctuation.bracket
+
+("{{") @punctuation.bracket
+("}}") @punctuation.bracket
+
+(double_brace_expression) @punctuation.bracket
+
